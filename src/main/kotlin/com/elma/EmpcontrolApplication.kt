@@ -1,4 +1,4 @@
-package com.elma.empcontrol
+package com.elma
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
